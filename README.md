@@ -1,6 +1,19 @@
 # 💫 About Me:
-🎓 SLIIT | Third-Year Student: Diving deep into Data Science and Software Engineering.<br><br>💻 Solution Builder: Crafting efficient, user-friendly web and mobile apps.<br><br>📈 Project Experience: Skilled in both development and team leadership roles.<br><br>🔧 Tech Stack:<br><br>Frontend: React<br>Backend: PHP, Java<br>Mobile: Kotlin (Android Studio)<br>💾 Database Savvy: Experienced in MongoDB MySQL and MongoDB.<br><br>🚀 Always Growing: Passionate about learning and exploring new technologies!
+🎓 SLIIT | Third-Year Student: Diving deep into Data Science and Software Engineering.<br>
+💻 Solution Builder: Crafting efficient, user-friendly web and mobile apps.<br>
+📈 Project Experience: Skilled in both development and team leadership roles.<br>
 
+🔧 Tech Stack:<br>
+   • Frontend: React, Tailwind CSS<br>
+   • Backend: PHP, Java<br>
+   • Mobile: Kotlin (Android Studio)<br>
+   • Database Savvy: Proficient in MongoDB & MySQL<br>
+
+🌐 POS Systems Expertise: Strong in server-side management and POS systems.<br>
+🎨 UI Designer: Designing attractive, functional dashboards and interfaces.<br>
+📚 Forever Growing: Passionate about building online shopping and customer management systems, always exploring new tech, and eager to learn and innovate.<br>
+
+🚀 Driven & Curious: Always learning, creating, and pushing boundaries to build impactful solutions!<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruduru_vidura) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vidura.ruwantha?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidura.ruwantha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidurarathnayaka) 
